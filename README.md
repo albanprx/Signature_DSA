@@ -1,3 +1,6 @@
+# Context
+
+This project is for educational purposes only. It is not intended for use in real-world cryptographic applications. Do not use this implementation for securing sensitive data.
 
 # Command to Launch the Program
 
